@@ -1,0 +1,31 @@
+{
+  "name": "gilwise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacKeninger/GilWise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/IsaacKeninger/GilWise/issues"
+  },
+  "homepage": "https://github.com/IsaacKeninger/GilWise#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "plaid": "^42.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
+  }
+}
